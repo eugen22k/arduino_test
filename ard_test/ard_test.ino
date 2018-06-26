@@ -3,7 +3,7 @@
 /*
     Name:       ard_test.ino
     Created:	26.06.2018 9:39:00
-    Author:     SOFTLINE\lyskovtsevey
+    Author:     lyskovtsevey
 */
 
 // Define User Types below here or use a .h file
